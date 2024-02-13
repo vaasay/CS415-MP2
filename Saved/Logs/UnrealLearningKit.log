@@ -2033,3 +2033,997 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.13-19.44.53:487][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
 [2024.02.13-19.44.53:496][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
 [2024.02.13-19.44.53:557][959]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.13-19.59.02:958][637]LogSlate: Took 0.000709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.13-19.59.14:174][288]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-19.59.14:285][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.13-20.00.22:979][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.13-20.00.22:982][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/Autosaves/Game/level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.13-20.00.23:004][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/level1_Auto3
+[2024.02.13-20.00.23:005][256]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level1_Auto3F7AFAF0F46FD62D1A2A0B1A548057837.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/Autosaves/Game/level1_Auto3.umap'
+[2024.02.13-20.00.23:009][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.096
+[2024.02.13-20.00.23:009][256]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2024.02.13-20.00.23:009][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/BP_Pursuer] ([2] browsable assets)...
+[2024.02.13-20.00.23:032][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer]
+[2024.02.13-20.00.23:032][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/BP_Pursuer]
+[2024.02.13-20.00.23:049][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/BP_Pursuer_Auto3
+[2024.02.13-20.00.23:049][256]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_Pursuer_Auto38E612D824469A44B13A326A426D35F41.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/BP_Pursuer_Auto3.uasset'
+[2024.02.13-20.00.23:050][256]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.02.13-20.01.40:479][835]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.01.40:588][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.02.13-20.01.42:502][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.13-20.01.42:506][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.01.42:542][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.01.42:609][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.13-20.01.42:632][931]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.01.42:633][931]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level13099426F42A59BA862F60BB4A84BC18F.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.01.42:646][931]LogFileHelpers: Saving map 'level1' took 0.105
+[2024.02.13-20.01.42:685][931]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-20.01.42:686][931]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_PursuerA1C1771E4E3B5BBF249E9A8529B7CFC4.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-20.01.42:693][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 992 ms)
+[2024.02.13-20.01.42:705][931]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-20.01.42:705][931]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.01.42:705][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-20.01.46:909][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.01.46:919][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.01.46:919][210]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:01:46 AM)
+[2024.02.13-20.01.46:919][210]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.01.46:924][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004670s)
+[2024.02.13-20.01.46:924][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004714s)
+[2024.02.13-20.01.46:924][210]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.01.46:925][210]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.01.46:925][210]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2024.02.13-20.01.46:992][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.13-20.01.46:994][210]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.01.46:994][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.01.46:994][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.01.46:995][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.01.46:995][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.01.46:995][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.01.46:997][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.01.47:030][210]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.01.47:030][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.01.47:030][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.01.47:030][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.01.47:032][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.13-20.01.47:032][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.13-20.01.47:034][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.13-20.01.47:034][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.13-20.01.47:034][210]LogInit: FAudioDevice initialized.
+[2024.02.13-20.01.47:034][210]LogAudio: Display: Audio Device (ID: 15) registered with world 'level1'.
+[2024.02.13-20.01.47:038][210]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.01.47:040][210]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.01.47
+[2024.02.13-20.01.47:040][210]LogWorld: Bringing up level for play took: 0.002772
+[2024.02.13-20.01.47:043][210]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.02.13-20.01.47:045][210]PIE: Server logged in
+[2024.02.13-20.01.47:046][210]PIE: Play in editor total start time 0.127 seconds.
+[2024.02.13-20.01.57:790][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.01.57:790][341]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.01.57:790][341]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.01.57:790][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.01.57:794][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.01.57:802][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.01.57:866][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.01.57:866][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.13-20.01.57:869][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.13-20.01.57:876][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.13-20.01.57:936][342]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.13-20.02.16:887][104]Cmd: SELECT NONE
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: ================================================
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Total job queries 184, among them cache hits 47 (25.54%)
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 110 distinct outputs (81.48%)
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Shaders Compiled: 135
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Jobs assigned 137, completed 135 (98.54%)
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Average time worker was idle: 242.81 s
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Time job spent in pending queue: average 3.77 s, longest 15.31 s
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Job execution time: average 3.66 s, max 13.50 s
+[2024.02.13-20.03.34:480][731]LogShaderCompilers: Display: Job life time (pending + execution): average 7.49 s, max 16.94
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.26 s
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Jobs were issued in 102 batches (only local compilation was used), average 1.34 jobs/batch
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Average processing rate: 3.05 jobs/sec
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Total thread time: 140.14 s
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Total thread preprocess time: 7.23 s
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Percentage time preprocessing: 5.16%
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.58 sec, max 1.99 sec, min 1.15 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.24% of total time (compiled   29 times, average 1.07 sec, max 2.11 sec, min 0.67 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 19.20% of total time (compiled   17 times, average 1.58 sec, max 1.99 sec, min 1.15 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.30% of total time (compiled   26 times, average 0.99 sec, max 1.49 sec, min 0.60 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.77% of total time (compiled   12 times, average 0.91 sec, max 1.52 sec, min 0.72 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.45% of total time (compiled   12 times, average 0.64 sec, max 1.20 sec, min 0.44 sec)
+[2024.02.13-20.03.34:481][731]LogShaderCompilers: Display: ================================================
+[2024.02.13-20.04.14:790][581]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.04.14:903][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.13-20.04.29:406][932]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:453][936]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:534][943]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:580][947]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:636][952]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:756][963]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:866][973]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.29:963][982]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:086][993]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:175][  0]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:245][  6]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:342][ 14]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:397][ 18]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:448][ 22]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.30:744][ 38]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.31:168][ 54]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:239][406]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:339][414]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:400][419]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:449][423]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:494][427]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:565][433]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:635][439]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:778][451]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:835][456]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.46:959][467]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.47:155][485]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.47:571][524]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.47:617][528]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.47:704][536]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.47:982][558]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.48:808][638]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.48:865][643]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.48:922][648]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.48:970][652]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:024][657]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:082][662]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:139][667]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:188][671]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:278][679]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:345][685]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:417][691]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:484][697]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:606][708]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.49:826][723]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.50:778][809]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.50:836][814]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.50:948][823]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.51:191][845]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.51:809][898]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:406][155]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:476][161]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:524][165]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:585][170]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:665][177]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:752][185]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.54:849][193]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.55:333][216]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.55:798][238]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.57:643][337]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.57:695][340]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:217][371]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:291][375]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:328][377]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:381][380]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:471][385]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:525][388]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:578][391]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:651][395]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:771][402]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.58:927][411]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:066][419]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:172][425]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:276][431]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:413][439]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:551][447]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:719][456]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.04.59:888][465]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.00:017][472]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.00:125][478]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.00:255][485]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.00:359][491]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.00:506][499]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.00:933][522]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:005][526]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:112][532]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:235][539]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:459][552]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:643][562]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:715][566]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:807][571]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.01:929][578]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.02:483][609]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.12:764][389]Cmd: SELECT NONE
+[2024.02.13-20.05.20:799][ 88]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.22:671][265]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.25:906][572]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.28:573][829]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.31:472][101]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.34:869][428]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.38:716][799]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.42:650][182]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/level1.level1:PersistentLevel.RecastNavMesh-Default).
+[2024.02.13-20.05.48:199][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.02.13-20.05.48:204][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.05.48:242][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.05.48:306][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.13-20.05.48:329][550]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.05.48:330][550]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level171D0DA5C49932701F6BD0DB5883F44E1.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.05.48:344][550]LogFileHelpers: Saving map 'level1' took 0.103
+[2024.02.13-20.05.48:383][550]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-20.05.48:383][550]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_Pursuer5FD91C8246D66F957965098CDC74B534.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-20.05.48:402][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 1.18 sec)
+[2024.02.13-20.05.48:413][550]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-20.05.48:413][550]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.05.48:413][550]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-20.05.51:024][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.05.51:033][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.05.51:033][772]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:05:51 AM)
+[2024.02.13-20.05.51:033][772]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.05.51:039][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005070s)
+[2024.02.13-20.05.51:039][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.005119s)
+[2024.02.13-20.05.51:039][772]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.05.51:040][772]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.05.51:040][772]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2024.02.13-20.05.51:106][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.13-20.05.51:107][772]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.05.51:107][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.05.51:107][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.05.51:108][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.05.51:108][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.05.51:108][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.05.51:111][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.05.51:144][772]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.05.51:145][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.05.51:145][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.05.51:145][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.05.51:146][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.13-20.05.51:146][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.13-20.05.51:147][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.13-20.05.51:147][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.13-20.05.51:147][772]LogInit: FAudioDevice initialized.
+[2024.02.13-20.05.51:147][772]LogAudio: Display: Audio Device (ID: 16) registered with world 'level1'.
+[2024.02.13-20.05.51:151][772]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.05.51:153][772]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.05.51
+[2024.02.13-20.05.51:154][772]LogWorld: Bringing up level for play took: 0.002742
+[2024.02.13-20.05.51:156][772]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.13-20.05.51:159][772]PIE: Server logged in
+[2024.02.13-20.05.51:160][772]PIE: Play in editor total start time 0.127 seconds.
+[2024.02.13-20.07.52:789][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.07.52:789][820]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.07.52:790][820]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.07.52:790][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.07.52:793][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.07.52:802][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.07.52:866][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.07.52:867][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.13-20.07.52:868][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.13-20.07.52:877][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.13-20.07.52:937][821]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.13-20.11.06:087][119]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.13-20.11.06:088][119]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.13-20.11.06:088][119]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.13-20.11.06:088][119]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: ================================================
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Total job queries 200, among them cache hits 53 (26.50%)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 119 distinct outputs (82.64%)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: RAM used: 1.18 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Shaders Compiled: 144
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Jobs assigned 147, completed 144 (97.96%)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Average time worker was idle: 268.61 s
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Time job spent in pending queue: average 3.52 s, longest 15.31 s
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Job execution time: average 3.50 s, max 13.50 s
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Job life time (pending + execution): average 7.10 s, max 16.94
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.60 s
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Jobs were issued in 112 batches (only local compilation was used), average 1.31 jobs/batch
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Total thread time: 147.42 s
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Total thread preprocess time: 7.67 s
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Percentage time preprocessing: 5.20%
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Effective parallelization: 3.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.58 sec, max 1.99 sec, min 1.15 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.85% of total time (compiled   30 times, average 1.07 sec, max 2.11 sec, min 0.67 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.46% of total time (compiled   29 times, average 0.99 sec, max 1.49 sec, min 0.60 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 18.25% of total time (compiled   17 times, average 1.58 sec, max 1.99 sec, min 1.15 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.96% of total time (compiled   13 times, average 0.90 sec, max 1.52 sec, min 0.72 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.03% of total time (compiled   14 times, average 0.63 sec, max 1.20 sec, min 0.44 sec)
+[2024.02.13-20.25.13:974][641]LogShaderCompilers: Display: ================================================
+[2024.02.13-20.25.51:725][686]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.25.51:735][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.25.51:735][686]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:25:51 AM)
+[2024.02.13-20.25.51:735][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.25.51:741][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005384s)
+[2024.02.13-20.25.51:741][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.005438s)
+[2024.02.13-20.25.51:741][686]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.25.51:742][686]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.25.51:742][686]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2024.02.13-20.25.51:815][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.02.13-20.25.51:819][686]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.25.51:819][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.25.51:819][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.25.51:820][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.25.51:820][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.25.51:820][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.25.51:823][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.25.51:855][686]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.25.51:856][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.25.51:856][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.25.51:856][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.25.51:856][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.02.13-20.25.51:856][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.02.13-20.25.51:858][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.02.13-20.25.51:858][686]LogInit: FAudioDevice initialized.
+[2024.02.13-20.25.51:858][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.02.13-20.25.51:858][686]LogAudio: Display: Audio Device (ID: 17) registered with world 'level1'.
+[2024.02.13-20.25.51:862][686]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.25.51:864][686]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.25.51
+[2024.02.13-20.25.51:865][686]LogWorld: Bringing up level for play took: 0.002807
+[2024.02.13-20.25.51:868][686]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.02.13-20.25.51:870][686]PIE: Server logged in
+[2024.02.13-20.25.51:871][686]PIE: Play in editor total start time 0.136 seconds.
+[2024.02.13-20.26.34:871][292]LogDerivedDataCache: C:/Users/vfarid2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.252 and deleted 0 files with total size 0 MiB. Scanned 3413 files in 3402 folders with total size 150 MiB.
+[2024.02.13-20.26.35:938][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.26.35:938][403]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.26.35:938][403]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.26.35:939][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.26.35:942][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.26.35:950][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.26.36:014][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.26.36:014][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.13-20.26.36:015][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.13-20.26.36:024][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.13-20.26.36:081][404]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.13-20.35.45:697][469]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.35.45:809][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.13-20.35.48:883][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.35.48:892][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.35.48:893][701]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:35:48 AM)
+[2024.02.13-20.35.48:917][701]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.35.48:922][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005060s)
+[2024.02.13-20.35.48:922][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.005113s)
+[2024.02.13-20.35.48:922][701]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.35.48:922][701]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.35.48:923][701]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2024.02.13-20.35.48:992][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.02.13-20.35.48:996][701]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.35.48:996][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.35.48:996][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.35.48:997][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.35.48:997][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.35.48:997][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.35.49:000][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.35.49:041][701]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.35.49:041][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.35.49:041][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.35.49:041][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.35.49:043][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.02.13-20.35.49:043][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.02.13-20.35.49:044][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.02.13-20.35.49:044][701]LogInit: FAudioDevice initialized.
+[2024.02.13-20.35.49:044][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.02.13-20.35.49:044][701]LogAudio: Display: Audio Device (ID: 18) registered with world 'level1'.
+[2024.02.13-20.35.49:050][701]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.35.49:052][701]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.35.49
+[2024.02.13-20.35.49:053][701]LogWorld: Bringing up level for play took: 0.002925
+[2024.02.13-20.35.49:055][701]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.02.13-20.35.49:058][701]PIE: Server logged in
+[2024.02.13-20.35.49:059][701]PIE: Play in editor total start time 0.166 seconds.
+[2024.02.13-20.36.00:117][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.36.00:117][866]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.36.00:118][866]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.36.00:118][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.36.00:121][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.36.00:129][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.36.00:196][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-20.36.00:196][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.13-20.36.00:198][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.13-20.36.00:202][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.36.00:205][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.13-20.36.00:264][867]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.13-20.36.25:294][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.13-20.36.25:296][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/Autosaves/Game/level1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.13-20.36.25:318][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/level1_Auto4
+[2024.02.13-20.36.25:318][ 80]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level1_Auto49A782BF643F4B0F515175BA6BB44C2B6.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/Autosaves/Game/level1_Auto4.umap'
+[2024.02.13-20.36.25:322][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.094
+[2024.02.13-20.36.25:322][ 80]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2024.02.13-20.36.25:323][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/BP_Pursuer] ([2] browsable assets)...
+[2024.02.13-20.36.25:344][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer]
+[2024.02.13-20.36.25:344][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/BP_Pursuer]
+[2024.02.13-20.36.25:361][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/BP_Pursuer_Auto4
+[2024.02.13-20.36.25:361][ 80]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_Pursuer_Auto44412A63041A720AA9A6AA68EF471A838.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/BP_Pursuer_Auto4.uasset'
+[2024.02.13-20.36.25:362][ 80]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.02.13-20.36.56:804][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.36.56:814][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.36.56:814][144]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:36:56 AM)
+[2024.02.13-20.36.56:814][144]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.36.56:818][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004884s)
+[2024.02.13-20.36.56:818][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004932s)
+[2024.02.13-20.36.56:818][144]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.36.56:819][144]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.36.56:819][144]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2024.02.13-20.36.56:884][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.13-20.36.56:887][144]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.36.56:887][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.36.56:887][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.36.56:887][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.36.56:887][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.36.56:887][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.36.56:890][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.36.56:921][144]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.36.56:921][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.36.56:921][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.36.56:921][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.36.56:922][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.02.13-20.36.56:922][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.02.13-20.36.56:924][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.02.13-20.36.56:924][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.02.13-20.36.56:924][144]LogInit: FAudioDevice initialized.
+[2024.02.13-20.36.56:924][144]LogAudio: Display: Audio Device (ID: 19) registered with world 'level1'.
+[2024.02.13-20.36.56:928][144]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.36.56:931][144]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.36.56
+[2024.02.13-20.36.56:931][144]LogWorld: Bringing up level for play took: 0.002616
+[2024.02.13-20.36.56:934][144]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.02.13-20.36.56:936][144]PIE: Server logged in
+[2024.02.13-20.36.56:937][144]PIE: Play in editor total start time 0.123 seconds.
+[2024.02.13-20.37.46:399][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.37.46:399][409]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.37.46:399][409]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.37.46:399][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.37.46:403][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.37.46:411][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.37.46:475][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.37.46:476][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.13-20.37.46:478][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.13-20.37.46:486][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.13-20.37.46:546][410]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.02.13-20.37.51:099][789]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/display/game-over.game-over
+[2024.02.13-20.37.51:099][789]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.37.51:122][789]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.37.51:129][789]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.02.13-20.37.51:625][789]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.13-20.37.51:625][789]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.13-20.37.51:752][789]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.02.13-20.37.51:753][789]LogSlate: Took 0.000707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.13-20.38.11:896][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.13-20.38.11:900][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.38.11:928][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.38.12:014][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.02.13-20.38.12:040][882]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.38.12:041][882]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level10A6E90D045016579CB477499BAECF8E9.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.38.12:054][882]LogFileHelpers: Saving map 'level1' took 0.126
+[2024.02.13-20.38.12:070][882]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-20.38.12:071][882]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_Pursuer4E0E4FEC499D3C7300573891BC9C7140.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-20.38.12:076][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/display/game-over" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/display/game-over.uasset" SILENT=true
+[2024.02.13-20.38.12:082][882]LogSavePackage: Moving output files for package: /Game/display/game-over
+[2024.02.13-20.38.12:083][882]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/game-over519442D344D021428854D79204B4323C.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/display/game-over.uasset'
+[2024.02.13-20.38.12:090][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 1.37 sec)
+[2024.02.13-20.38.12:104][882]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-20.38.12:104][882]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.38.12:104][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-20.38.12:104][882]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/display/game-over.game-over
+[2024.02.13-20.38.12:321][893]BlueprintLog: New page: Compile game-over
+[2024.02.13-20.38.12:446][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.02.13-20.38.18:078][199]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.38.18:208][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.02.13-20.38.20:816][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.38.20:825][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.38.20:825][382]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:38:20 AM)
+[2024.02.13-20.38.20:825][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.38.20:829][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004899s)
+[2024.02.13-20.38.20:830][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004947s)
+[2024.02.13-20.38.20:830][382]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.38.20:830][382]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.38.20:830][382]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2024.02.13-20.38.20:912][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.02.13-20.38.20:916][382]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.38.20:916][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.38.20:916][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.38.20:918][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.38.20:918][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.38.20:918][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.38.20:921][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.38.20:951][382]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.38.20:951][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.38.20:951][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.38.20:951][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.38.20:952][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.02.13-20.38.20:952][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.02.13-20.38.20:954][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.02.13-20.38.20:954][382]LogInit: FAudioDevice initialized.
+[2024.02.13-20.38.20:954][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.02.13-20.38.20:954][382]LogAudio: Display: Audio Device (ID: 20) registered with world 'level1'.
+[2024.02.13-20.38.20:959][382]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.38.20:961][382]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.38.20
+[2024.02.13-20.38.20:961][382]LogWorld: Bringing up level for play took: 0.002764
+[2024.02.13-20.38.20:964][382]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.13-20.38.20:966][382]PIE: Server logged in
+[2024.02.13-20.38.20:967][382]PIE: Play in editor total start time 0.142 seconds.
+[2024.02.13-20.39.53:708][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.39.53:708][133]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.39.53:708][133]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.39.53:709][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.39.53:712][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.39.53:724][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.39.53:804][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-20.39.53:804][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.13-20.39.53:806][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.13-20.39.53:811][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.39.53:816][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.02.13-20.39.53:876][134]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.13-20.39.57:065][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.02.13-20.39.57:070][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.39.57:090][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.39.57:173][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.13-20.39.57:195][376]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.39.57:196][376]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level18238ADB4405015DE96A7AAAD1BA4F323.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.39.57:210][376]LogFileHelpers: Saving map 'level1' took 0.121
+[2024.02.13-20.39.57:216][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1.52 sec)
+[2024.02.13-20.39.57:231][376]AssetCheck: New page: Asset Save: level1
+[2024.02.13-20.39.57:231][376]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.40.46:018][879]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.02.13-20.40.46:029][879]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.02.13-20.40.46:047][880]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.02.13-20.40.49:411][214]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> EAIState
+[2024.02.13-20.40.49:412][214]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.02.13-20.41.01:555][507]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/LearningKit_Games/Blueprints/EAIState.EAIState
+[2024.02.13-20.43.08:552][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.13-20.43.08:557][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.43.08:591][849]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/EAIState
+[2024.02.13-20.43.08:591][849]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/EAIStateB7C791D5427F25A42EE8D78DB9AC044D.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/EAIState.uasset'
+[2024.02.13-20.43.08:599][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.56 sec)
+[2024.02.13-20.43.08:611][849]AssetCheck: New page: Asset Save: EAIState
+[2024.02.13-20.43.08:611][849]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/LearningKit_Games/Blueprints/EAIState.EAIState
+[2024.02.13-20.43.42:761][853]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.43.42:890][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2024.02.13-20.46.47:854][828]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.46.47:996][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.02.13-20.47.45:898][119]LogViewport: Scene viewport resized to 643x396, mode Windowed.
+[2024.02.13-20.49.10:794][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.02.13-20.49.10:801][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.49.10:840][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.49.10:925][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.02.13-20.49.10:949][410]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.49.10:950][410]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level1BE26387745D6A079160CA49A53746748.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.49.10:964][410]LogFileHelpers: Saving map 'level1' took 0.124
+[2024.02.13-20.49.11:004][410]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-20.49.11:005][410]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_Pursuer8250B62048E24F8EE070B098C612656E.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-20.49.11:013][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 1.78 sec)
+[2024.02.13-20.49.11:027][410]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-20.49.11:027][410]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.49.11:028][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-20.49.33:630][631]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.49.33:804][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.02.13-20.49.40:110][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.02.13-20.49.40:117][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.49.40:142][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.49.40:227][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-20.49.40:250][998]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.49.40:251][998]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level199860CCA4300623068FCEE9581AC6084.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.49.40:264][998]LogFileHelpers: Saving map 'level1' took 0.122
+[2024.02.13-20.49.40:305][998]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-20.49.40:305][998]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_PursuerFA69A7D749B63B682B985D80AA03F929.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-20.49.40:314][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 1.97 sec)
+[2024.02.13-20.49.40:327][998]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-20.49.40:328][998]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.49.40:328][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-20.50.00:037][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.50.00:068][506]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.13-20.50.00:068][506]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2024.02.13-20.50.00:160][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.02.13-20.50.00:166][506]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (1 blueprints)
+[2024.02.13-20.50.00:166][506]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:50:00 AM)
+[2024.02.13-20.50.00:166][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.50.00:171][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004818s)
+[2024.02.13-20.50.00:171][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004856s)
+[2024.02.13-20.50.00:171][506]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.50.00:171][506]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.50.00:172][506]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2024.02.13-20.50.00:254][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.02.13-20.50.00:256][506]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.50.00:256][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.50.00:256][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.50.00:257][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.50.00:257][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.50.00:257][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.50.00:260][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.50.00:293][506]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.50.00:294][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.50.00:294][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.50.00:294][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.50.00:295][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.02.13-20.50.00:295][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.02.13-20.50.00:297][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.02.13-20.50.00:297][506]LogInit: FAudioDevice initialized.
+[2024.02.13-20.50.00:297][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.02.13-20.50.00:297][506]LogAudio: Display: Audio Device (ID: 21) registered with world 'level1'.
+[2024.02.13-20.50.00:301][506]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.50.00:303][506]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.50.00
+[2024.02.13-20.50.00:304][506]LogWorld: Bringing up level for play took: 0.002752
+[2024.02.13-20.50.00:307][506]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.02.13-20.50.00:309][506]PIE: Server logged in
+[2024.02.13-20.50.00:310][506]PIE: Play in editor total start time 0.264 seconds.
+[2024.02.13-20.50.09:776][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.50.09:776][488]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.50.09:776][488]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.50.09:777][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.50.09:783][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.50.09:793][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.50.09:876][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.50.09:876][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.13-20.50.09:878][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.13-20.50.09:887][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.13-20.50.09:975][489]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.02.13-20.50.13:158][712]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-20.50.13:169][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-20.50.13:169][712]PIE: New page: PIE session: level1 (Feb 13, 2024, 8:50:13 AM)
+[2024.02.13-20.50.13:216][712]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-20.50.13:221][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004808s)
+[2024.02.13-20.50.13:221][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004878s)
+[2024.02.13-20.50.13:221][712]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-20.50.13:221][712]LogAIModule: Creating AISystem for world level1
+[2024.02.13-20.50.13:222][712]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2024.02.13-20.50.13:305][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.13-20.50.13:309][712]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-20.50.13:309][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-20.50.13:309][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-20.50.13:310][712]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-20.50.13:310][712]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-20.50.13:310][712]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-20.50.13:312][712]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-20.50.13:342][712]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-20.50.13:342][712]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-20.50.13:342][712]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-20.50.13:342][712]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-20.50.13:343][712]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.02.13-20.50.13:343][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.02.13-20.50.13:346][712]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.02.13-20.50.13:346][712]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.02.13-20.50.13:346][712]LogInit: FAudioDevice initialized.
+[2024.02.13-20.50.13:346][712]LogAudio: Display: Audio Device (ID: 22) registered with world 'level1'.
+[2024.02.13-20.50.13:349][712]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-20.50.13:352][712]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-14.50.13
+[2024.02.13-20.50.13:352][712]LogWorld: Bringing up level for play took: 0.002672
+[2024.02.13-20.50.13:354][712]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.13-20.50.13:357][712]PIE: Server logged in
+[2024.02.13-20.50.13:357][712]PIE: Play in editor total start time 0.189 seconds.
+[2024.02.13-20.50.26:056][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.50.26:056][ 50]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-20.50.26:056][ 50]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-20.50.26:057][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.50.26:063][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-20.50.26:073][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-20.50.26:155][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-20.50.26:155][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.13-20.50.26:157][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.13-20.50.26:161][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-20.50.26:166][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.02.13-20.50.26:255][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.13-20.51.05:918][921]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-20.51.06:095][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.02.13-20.51.15:466][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.02.13-20.51.15:473][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-20.51.15:503][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-20.51.15:586][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-20.51.15:608][475]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-20.51.15:609][475]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level1ECDDDE844BFAF9AEF5A28AAEB8B23C01.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-20.51.15:623][475]LogFileHelpers: Saving map 'level1' took 0.121
+[2024.02.13-20.51.15:664][475]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-20.51.15:664][475]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_PursuerC5D6A9114D74C1FF9EBCBA913D17117F.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-20.51.15:672][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 2.17 sec)
+[2024.02.13-20.51.15:686][475]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-20.51.15:686][475]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-20.51.15:686][475]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-20.58.01:069][992]LogViewport: Scene viewport resized to 643x396, mode Windowed.
+[2024.02.13-20.58.13:702][894]LogViewport: Scene viewport resized to 643x396, mode Windowed.
+[2024.02.13-20.58.27:271][ 68]LogViewport: Scene viewport resized to 643x396, mode Windowed.
+[2024.02.13-21.00.26:177][343]LogViewport: Scene viewport resized to 643x396, mode Windowed.
+[2024.02.13-21.00.31:748][720]LogViewport: Scene viewport resized to 643x396, mode Windowed.
+[2024.02.13-21.01.03:489][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.02.13-21.01.03:498][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.01.03:535][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-21.01.03:620][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.13-21.01.03:645][ 83]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-21.01.03:646][ 83]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level16F7348284C08E637C78D64B333CEA8A0.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-21.01.03:660][ 83]LogFileHelpers: Saving map 'level1' took 0.125
+[2024.02.13-21.01.03:679][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 2.35 sec)
+[2024.02.13-21.01.03:695][ 83]AssetCheck: New page: Asset Save: level1
+[2024.02.13-21.01.03:695][ 83]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-21.04.18:910][841]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-21.04.19:047][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.02.13-21.04.22:018][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.04.22:031][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.04.22:031][ 60]PIE: New page: PIE session: level1 (Feb 13, 2024, 9:04:22 AM)
+[2024.02.13-21.04.22:031][ 60]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-21.04.22:037][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005182s)
+[2024.02.13-21.04.22:037][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.005230s)
+[2024.02.13-21.04.22:037][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-21.04.22:038][ 60]LogAIModule: Creating AISystem for world level1
+[2024.02.13-21.04.22:038][ 60]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2024.02.13-21.04.22:123][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.13-21.04.22:126][ 60]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.04.22:126][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.04.22:126][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.04.22:127][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.04.22:127][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.04.22:127][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.04.22:130][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.04.22:163][ 60]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-21.04.22:163][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.04.22:163][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.04.22:163][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.04.22:164][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.02.13-21.04.22:164][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.02.13-21.04.22:167][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.02.13-21.04.22:167][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.02.13-21.04.22:167][ 60]LogInit: FAudioDevice initialized.
+[2024.02.13-21.04.22:167][ 60]LogAudio: Display: Audio Device (ID: 23) registered with world 'level1'.
+[2024.02.13-21.04.22:171][ 60]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-21.04.22:173][ 60]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-15.04.22
+[2024.02.13-21.04.22:174][ 60]LogWorld: Bringing up level for play took: 0.002749
+[2024.02.13-21.04.22:176][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.02.13-21.04.22:179][ 60]PIE: Server logged in
+[2024.02.13-21.04.22:179][ 60]PIE: Play in editor total start time 0.152 seconds.
+[2024.02.13-21.04.24:148][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.04.24:148][235]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-21.04.24:148][235]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.04.24:149][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.04.24:172][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.04.24:182][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.04.24:264][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-21.04.24:265][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.02.13-21.04.24:267][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.02.13-21.04.24:271][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.04.24:275][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.13-21.04.24:318][236]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.02.13-21.04.29:672][582]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-21.04.29:799][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.02.13-21.04.32:465][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.04.32:473][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.04.32:473][781]PIE: New page: PIE session: level1 (Feb 13, 2024, 9:04:32 AM)
+[2024.02.13-21.04.32:473][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-21.04.32:478][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004732s)
+[2024.02.13-21.04.32:478][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004767s)
+[2024.02.13-21.04.32:478][781]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-21.04.32:478][781]LogAIModule: Creating AISystem for world level1
+[2024.02.13-21.04.32:478][781]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2024.02.13-21.04.32:563][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.13-21.04.32:567][781]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.04.32:568][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.04.32:568][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.04.32:568][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.04.32:568][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.04.32:568][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.04.32:571][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.04.32:602][781]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-21.04.32:602][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.04.32:602][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.04.32:602][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.04.32:603][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.02.13-21.04.32:603][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.02.13-21.04.32:605][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.02.13-21.04.32:605][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.02.13-21.04.32:605][781]LogInit: FAudioDevice initialized.
+[2024.02.13-21.04.32:605][781]LogAudio: Display: Audio Device (ID: 24) registered with world 'level1'.
+[2024.02.13-21.04.32:609][781]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-21.04.32:611][781]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-15.04.32
+[2024.02.13-21.04.32:611][781]LogWorld: Bringing up level for play took: 0.002656
+[2024.02.13-21.04.32:614][781]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.02.13-21.04.32:616][781]PIE: Server logged in
+[2024.02.13-21.04.32:617][781]PIE: Play in editor total start time 0.144 seconds.
+[2024.02.13-21.04.46:333][236]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_3] Power Up
+[2024.02.13-21.04.50:766][719]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_16] Collectable
+[2024.02.13-21.05.08:248][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.05.08:248][577]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-21.05.08:249][577]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.05.08:249][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.05.08:277][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.05.08:289][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.05.08:374][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.05.08:374][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.02.13-21.05.08:376][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.02.13-21.05.08:384][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.02.13-21.05.08:439][578]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.02.13-21.05.16:496][ 76]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-21.05.16:627][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.02.13-21.05.18:838][231]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.05.18:847][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.05.18:847][231]PIE: New page: PIE session: level1 (Feb 13, 2024, 9:05:18 AM)
+[2024.02.13-21.05.18:847][231]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-21.05.18:853][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005079s)
+[2024.02.13-21.05.18:853][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.005124s)
+[2024.02.13-21.05.18:853][231]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-21.05.18:853][231]LogAIModule: Creating AISystem for world level1
+[2024.02.13-21.05.18:853][231]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2024.02.13-21.05.18:937][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.02.13-21.05.18:940][231]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.05.18:941][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.05.18:941][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.05.18:941][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.05.18:941][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.05.18:941][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.05.18:944][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.05.18:974][231]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-21.05.18:974][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.05.18:974][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.05.18:974][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.05.18:975][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.02.13-21.05.18:975][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.02.13-21.05.18:978][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.02.13-21.05.18:978][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.02.13-21.05.18:978][231]LogInit: FAudioDevice initialized.
+[2024.02.13-21.05.18:978][231]LogAudio: Display: Audio Device (ID: 25) registered with world 'level1'.
+[2024.02.13-21.05.18:982][231]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-21.05.18:984][231]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-15.05.18
+[2024.02.13-21.05.18:984][231]LogWorld: Bringing up level for play took: 0.002700
+[2024.02.13-21.05.18:987][231]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.02.13-21.05.18:989][231]PIE: Server logged in
+[2024.02.13-21.05.18:990][231]PIE: Play in editor total start time 0.143 seconds.
+[2024.02.13-21.05.41:558][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.05.41:558][615]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-21.05.41:559][615]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.05.41:559][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.05.41:587][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.05.41:597][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.05.41:680][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-21.05.41:681][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.02.13-21.05.41:682][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.02.13-21.05.41:687][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.05.41:690][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.02.13-21.05.41:745][616]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.02.13-21.06.36:958][726]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.13-21.06.37:085][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.02.13-21.06.39:778][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.06.39:787][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.06.39:787][922]PIE: New page: PIE session: level1 (Feb 13, 2024, 9:06:39 AM)
+[2024.02.13-21.06.39:818][922]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2024.02.13-21.06.39:822][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004847s)
+[2024.02.13-21.06.39:822][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.004896s)
+[2024.02.13-21.06.39:823][922]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.13-21.06.39:823][922]LogAIModule: Creating AISystem for world level1
+[2024.02.13-21.06.39:823][922]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2024.02.13-21.06.39:906][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.02.13-21.06.39:909][922]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.06.39:909][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.06.39:909][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.06.39:909][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.06.39:909][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.06.39:909][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.06.39:912][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.06.39:944][922]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721DGF (NVIDIA High Definition Audio)
+[2024.02.13-21.06.39:944][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.06.39:944][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.06.39:944][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.06.39:945][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.02.13-21.06.39:945][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.02.13-21.06.39:947][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.02.13-21.06.39:947][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.02.13-21.06.39:947][922]LogInit: FAudioDevice initialized.
+[2024.02.13-21.06.39:947][922]LogAudio: Display: Audio Device (ID: 26) registered with world 'level1'.
+[2024.02.13-21.06.39:950][922]LogLoad: Game class is 'GameModeBase'
+[2024.02.13-21.06.39:953][922]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2024.02.13-15.06.39
+[2024.02.13-21.06.39:953][922]LogWorld: Bringing up level for play took: 0.002759
+[2024.02.13-21.06.39:956][922]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.02.13-21.06.39:959][922]PIE: Server logged in
+[2024.02.13-21.06.39:960][922]PIE: Play in editor total start time 0.172 seconds.
+[2024.02.13-21.06.57:098][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.06.57:098][762]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2024.02.13-21.06.57:099][762]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.06.57:099][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.06.57:129][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.06.57:139][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.06.57:222][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-21.06.57:222][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.02.13-21.06.57:223][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.02.13-21.06.57:227][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.06.57:232][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.13-21.06.57:285][763]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.02.13-21.07.01:083][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.02.13-21.07.01:089][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.07.01:117][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-21.07.01:200][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-21.07.01:224][ 33]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-21.07.01:225][ 33]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level1906A839A4896D01304E19494EAA94B2A.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-21.07.01:238][ 33]LogFileHelpers: Saving map 'level1' took 0.121
+[2024.02.13-21.07.01:279][ 33]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/BP_Pursuer
+[2024.02.13-21.07.01:280][ 33]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/BP_PursuerEDCFCA4E44DE20B28D4275B451EE9580.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset'
+[2024.02.13-21.07.01:298][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 2.56 sec)
+[2024.02.13-21.07.01:313][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-21.07.01:313][ 33]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-21.07.01:313][ 33]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/BP_Pursuer.BP_Pursuer
+[2024.02.13-21.07.51:767][893]BlueprintLog: New page: Compile game-over
+[2024.02.13-21.07.51:901][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.02.13-21.10.22:666][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.13-21.10.22:672][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.10.22:709][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.13-21.10.22:794][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.13-21.10.22:817][962]LogSavePackage: Moving output files for package: /Game/level1
+[2024.02.13-21.10.22:817][962]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/level17EE2C91D4C7D59B7D60496A56168224B.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/level1.umap'
+[2024.02.13-21.10.22:832][962]LogFileHelpers: Saving map 'level1' took 0.123
+[2024.02.13-21.10.22:834][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/display/game-over" FILE="../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/display/game-over.uasset" SILENT=true
+[2024.02.13-21.10.22:840][962]LogSavePackage: Moving output files for package: /Game/display/game-over
+[2024.02.13-21.10.22:841][962]LogSavePackage: Moving '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Saved/game-over39F1D64C47B91281C476CAB3379E51CE.tmp' to '../../../../../../Users/vfarid2/Documents/Unreal Projects/CS415-MP2/Content/display/game-over.uasset'
+[2024.02.13-21.10.22:863][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 2.75 sec)
+[2024.02.13-21.10.22:877][962]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-21.10.22:877][962]LogContentValidation: Display: Validating /Script/Engine.World /Game/level1.level1
+[2024.02.13-21.10.22:877][962]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/display/game-over.game-over
